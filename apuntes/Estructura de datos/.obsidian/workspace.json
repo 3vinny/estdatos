@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "1ee15a890d7ebe74",
+    "type": "split",
+    "children": [
+      {
+        "id": "995e8ab03258d80b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc95f2fdb8d2df88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estructura de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estructura de datos"
+            }
+          },
+          {
+            "id": "c84ca9f1554c6e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algoritmos/insertion sort o ordenamiento por inserción.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "insertion sort o ordenamiento por inserción"
+            }
+          },
+          {
+            "id": "ec0b04c4162574ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algoritmos/Selection sort o ordenamiento por selección.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selection sort o ordenamiento por selección"
+            }
+          },
+          {
+            "id": "2313d891278e653a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algoritmos/Selection sort o ordenamiento por selección.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selection sort o ordenamiento por selección"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b7dd6e66c67a348",
+    "type": "split",
+    "children": [
+      {
+        "id": "339bc94f4b141f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a38cbdda532605cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a9a40334ab2058a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "cc9becfa70d8b7ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4640459f604a5623",
+    "type": "split",
+    "children": [
+      {
+        "id": "210ecf074dd88c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bdfb49c8bdf117c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "algoritmos/Selection sort o ordenamiento por selección.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "90875637ddbd34c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "algoritmos/Selection sort o ordenamiento por selección.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e542421340ee0cde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2e478caabe40edf8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7d1c7c027ab9e017",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "algoritmos/Selection sort o ordenamiento por selección.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "2313d891278e653a",
+  "lastOpenFiles": [
+    "algoritmos/insertion sort o ordenamiento por inserción.md",
+    "algoritmos/Selection sort o ordenamiento por selección.md",
+    "algoritmos",
+    "Estructura de datos.md",
+    "algoritmos/Bubble sort.md"
+  ]
+}
