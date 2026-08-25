@@ -11,9 +11,9 @@ int main()
 	int i;
 	// Creamos un arreglo de personas
 	Persona Personas[3];
-	Personas[0] = crear_persona("Juan", 25);
-	Personas[1] = crear_persona("Pedro", 30);
-	Personas[2] = crear_persona("Carlos", 35);
+	Personas[0] = crear_persona("Pedro", 25);
+	Personas[1] = crear_persona("Juan", 30);
+	Personas[2] = crear_persona("Diego", 35);
 
 	// Imprimimos su contenido por pantalla
 	for (i = 0; i < 3; i++)
