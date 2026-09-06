@@ -4,4 +4,4 @@
 .ignorar
 *.csv
 *.json
-
+*.o

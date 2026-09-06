@@ -1,0 +1,4 @@
+gcc src/*.c -I inc/ -o a.out
+./a.out
+*=todos los .c
+-I=ruta include
