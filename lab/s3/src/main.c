@@ -27,7 +27,12 @@ void crea_producto(Producto *producto)
         }
         producto[i].proveedor[5] = '\0'; // vacio
         printf("Precio para %s: ", producto[i].nombre);
-        scanf("%d", &producto[i].precio);
+        while (producto[i].precio <= 0){
+            scanf("%d", &producto[i].precio);
+            if (producto[i].precio <= 0) printf("Invalido! Intente de nuevo: ");
+        }
+        
+        
     }
 }
 
