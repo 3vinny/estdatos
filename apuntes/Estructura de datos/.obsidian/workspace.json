@@ -34,9 +34,65 @@
               "icon": "lucide-file",
               "title": "Make - makefile"
             }
+          },
+          {
+            "id": "aecbe43c5ed9f948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.listas enlazadas/3. listas doblemente enlazadas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. listas doblemente enlazadas"
+            }
+          },
+          {
+            "id": "b0671e776033781e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.listas enlazadas/3.1 listas circulares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 listas circulares"
+            }
+          },
+          {
+            "id": "02abb992dd0730bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.listas enlazadas/4.1 Pilas - TDA (tipo de dato abstracto).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Pilas - TDA (tipo de dato abstracto)"
+            }
+          },
+          {
+            "id": "02e7dfbe9fa96279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab/TDA - listas, etc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TDA - listas, etc"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4640459f604a5623",
@@ -203,19 +259,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3591bd5453279ba0",
+  "active": "02e7dfbe9fa96279",
   "lastOpenFiles": [
-    "algoritmos/Algoritmos iterativos.md",
+    "2.listas enlazadas/4.2 Colas - TDA (tipo de dato abstracto).md",
+    "lab/TDA - listas, etc.md",
+    "2.listas enlazadas/4.1 Pilas - TDA (tipo de dato abstracto).md",
+    "foto/Pasted image 20260929152249.png",
+    "foto/Pasted image 20260929152257.png",
+    "2.listas enlazadas/3.1 listas circulares.md",
+    "foto/Pasted image 20260925123715.png",
+    "2.listas enlazadas/3. listas doblemente enlazadas.md",
+    "Estructura de datos.md",
+    "foto/Pasted image 20260925114321.png",
+    "foto/Pasted image 20260925123556.png",
+    "foto/Pasted image 20260925123537.png",
+    "foto/Pasted image 20260925123459.png",
+    "Sin nombre",
+    "foto/Pasted image 20260925123419.png",
+    "foto/Pasted image 20260925114556.png",
+    "foto/Pasted image 20260925114421.png",
     "lab/Make - makefile.md",
+    "2.listas enlazadas",
+    "1.algoritmos/Algoritmos iterativos.md",
     "lab",
-    "algoritmos/Algoritmos recursivos.md",
-    "foto/Pasted image 20260821121307.png",
-    "algoritmos/Selection sort o ordenamiento por selección.md",
-    "algoritmos/insertion sort o ordenamiento por inserción.md",
-    "algoritmos/Bubble sort.md",
+    "1.algoritmos/Algoritmos recursivos.md",
+    "1.algoritmos/Selection sort o ordenamiento por selección.md",
+    "1.algoritmos/insertion sort o ordenamiento por inserción.md",
+    "1.algoritmos/Bubble sort.md",
     "foto",
-    "foto/Pasted image 20260821114539.png",
-    "algoritmos",
-    "Estructura de datos.md"
+    "1.algoritmos"
   ]
 }
