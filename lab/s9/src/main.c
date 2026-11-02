@@ -28,13 +28,6 @@ int main(){
 
 	// ------------------------------------------------------------------
 	printf(BLUE "\n======INSERTANDO PRODUCTOS======" RESET "\n");
-	/*
-	 *            1500 Pan
-	 *           /          \
-	 *     800 Leche         2500 Queso
-	 *     /      \          /        \
-	 * 400 Sal  1000 Te  2000 Cafe  3000 Vino
-	 */
 	ABB = abb_insert(prod_create("Pan",   1500, 20, "Panaderia Sur"), ABB);
 	ABB = abb_insert(prod_create("Leche",  800, 15, "Lacteos Patagonia"), ABB);
 	ABB = abb_insert(prod_create("Queso", 2500,  8, "Lacteos Patagonia"), ABB);
@@ -61,12 +54,6 @@ int main(){
 	if(p == NULL){
 		printf(GREEN "OK: " RESET "abb_find retornó NULL\n");
 	}
-
-//	p = abb_find_min(ABB);
-//	printf(GREEN "Más barato: " RESET "%s\n", p->producto.name);
-//	p = abb_find_max(ABB);
-//	printf(GREEN "Más caro:   " RESET "%s\n", p->producto.name);
-
 	// ------------------------------------------------------------------
 	printf(BLUE "\n======ELIMINANDO TODO EL ARBOL======" RESET "\n");
 	ABB = abb_delete_tree(ABB);

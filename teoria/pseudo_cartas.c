@@ -10,7 +10,7 @@ void jugarPartida(Pila* mazo, Pila* tesoroMilton, Pila* tesoroLuis, Cola* descar
 
         // Regla 1: Multiplo de 15
         if (carta % 15 == 0) {
-            push(miTesoro, carta);
+            push(miTesoro, carta); // VA AL TESORO
             turno = (turno == 1) ? 2 : 1; 
         }
         // Regla 2: Multiplo de 3

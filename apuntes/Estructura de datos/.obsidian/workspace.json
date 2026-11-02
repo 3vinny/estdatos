@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab/TDA - listas, etc.md",
+                "file": "lab/AVL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDA - listas, etc"
+              "title": "AVL"
             }
           }
         ],
@@ -250,6 +250,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -261,8 +262,12 @@
   },
   "active": "02e7dfbe9fa96279",
   "lastOpenFiles": [
-    "2.listas enlazadas/4.2 Colas - TDA (tipo de dato abstracto).md",
+    "Pasted image 20261026151722.png",
+    "Pasted image 20261026151655.png",
+    "avl.canvas",
+    "lab/AVL.md",
     "lab/TDA - listas, etc.md",
+    "2.listas enlazadas/4.2 Colas - TDA (tipo de dato abstracto).md",
     "2.listas enlazadas/4.1 Pilas - TDA (tipo de dato abstracto).md",
     "foto/Pasted image 20260929152249.png",
     "foto/Pasted image 20260929152257.png",
@@ -277,7 +282,6 @@
     "Sin nombre",
     "foto/Pasted image 20260925123419.png",
     "foto/Pasted image 20260925114556.png",
-    "foto/Pasted image 20260925114421.png",
     "lab/Make - makefile.md",
     "2.listas enlazadas",
     "1.algoritmos/Algoritmos iterativos.md",
